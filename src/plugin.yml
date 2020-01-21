@@ -1,0 +1,7 @@
+name: baseReplace
+version: 1.0.0
+author: me
+main: US.bittiez.baseReplace.main
+permissions:
+    baseReplace.replace:
+        description: Allows the player to make use of this plugin.
